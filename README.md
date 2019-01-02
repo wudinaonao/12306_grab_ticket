@@ -41,3 +41,4 @@ Python3.x实现.<br>
 
 <img src="https://github.com/wudinaonao/12306_grab_ticket/blob/master/use/run.png?raw=true">
 <img src="https://github.com/wudinaonao/12306_grab_ticket/blob/master/use/result.png?raw=true">
+<img src="https://github.com/wudinaonao/12306_grab_ticket/blob/master/use/email.png?raw=true">
