@@ -3,7 +3,7 @@ Python3.x实现.<br>
 在config.py文件里配置需要使用的信息.
 
 ## 关于验证码识别的问题
-12306的验证码分为两部分:
+### 12306的验证码分为两部分:
 1. 文字部分
 2. 图片部分
 
@@ -20,12 +20,11 @@ Python3.x实现.<br>
 我们似乎可以直接使用CNN来识别, 经过笔者测试,效果出乎意
 料的不错, 准确率基本在1.0
     
-<img src="https://github.com/wudinaonao/12306_grab_ticket/blob/master/use/captcha_text.png?raw=true">
+<img src="https://github.com/wudinaonao/12306_grab_ticket/blob/master/use/captcha_text.png">
 
 图片部分的识别因为笔者数据集并不大, 所以准确率大约在0.9附近, 不过这个准确率已经够用了, 关于图像分类的部分这里不赘述.
 
-##验证码识别
-
+## 验证码识别
 <img src="https://github.com/wudinaonao/12306_grab_ticket/blob/master/use/mark_captcha.png?raw=true">
 
 ## 程序运行流程
